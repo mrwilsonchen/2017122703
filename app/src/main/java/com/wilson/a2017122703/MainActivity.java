@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         ed1 = (EditText) findViewById(R.id.editText4);
         ed2 = (EditText) findViewById(R.id.editText5);
 
-        tv.setText("Hello World 1");
+        tv.setText("Hello World 2");
     }
     public void click1(View v)
     {
